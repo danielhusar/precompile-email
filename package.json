@@ -1,0 +1,17 @@
+{
+  "name": "intercom-email",
+  "description": "Intercom email",
+  "keywords": [
+    "email"
+  ],
+  "version": "1.0.0",
+  "author": "intercom",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-cheerio": "^0.6.2",
+    "gulp-clipboard": "^0.1.1",
+    "gulp-premailer": "^0.3.0",
+    "express": "^4.11.2",
+    "open": "^0.0.5"
+  },
+}
