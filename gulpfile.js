@@ -3,7 +3,6 @@
 // Include gulp
 var gulp = require('gulp');
 var express = require('express');
-var browser = require('open');
 var clipboard = require("gulp-clipboard");
 var premailer = require('gulp-premailer');
 
